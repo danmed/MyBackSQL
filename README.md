@@ -12,6 +12,8 @@ Web interface to backup and restore MySQL / MariaDB databases
 
 # Planned
 * Scheduling
+* Docker containerto simplify things
+* External storage (likely rclone supported endpoints to minimise hassle)
 
 
 # Screenshots
