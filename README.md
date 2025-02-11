@@ -4,6 +4,13 @@ Web interface to backup and restore MySQL / MariaDB databases
 # Pre-Reqs
 * Linux host running a LAMP stack
 
+# Installation
+* Clone the repo
+* mkdir backup
+* chmod 777 backup
+* cd config
+* chmod 777 db_config.php
+
 # Features
 * Configure DB connection in GUI
 * Backup DB
